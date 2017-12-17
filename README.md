@@ -29,6 +29,3 @@ The code will look like the following:
 * [Learning AngularJS Animations](https://www.packtpub.com/web-development/learning-angularjs-animations?utm_source=github&utm_medium=repository&utm_campaign=9781783984428)
 
 * [Learning Angular components - Second Edition [Video]](https://www.packtpub.com/web-development/learning-angular-components-second-edition-video?utm_source=github&utm_medium=repository&utm_campaign=9781787125506)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
